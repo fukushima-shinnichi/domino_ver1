@@ -32,7 +32,7 @@ cssのtransitionプロパティで移動させ、jqueryのon()でトリガーを
 ***
 ***
 
-# Website of fireworks game version1.0
+# Website of animation of domino version1.0
 ## Overview
 * this this website concept is animation of domino.
 * use HTML5,CSS3,jQuery.
